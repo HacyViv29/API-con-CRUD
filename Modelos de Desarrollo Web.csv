@@ -1,0 +1,53 @@
+﻿id,nombreCompleto,matricula,edad,carrera,genero,facultad,correo,semestre,ciudadEstado,lenguajeProgramacion,especialidad,nivelIngles,estadoCivil
+1,Francisco Javier Alvarez Bonilla,202272044,20,Ingeniería en Tecnologías de la Información ,Masculino,FCC,francisco.alvarezb@alumno.buap.mx,7,"Cd. Sahagún, Hidalgo",Python,Python,Avanzado,Soltero
+2,Andy Pérez Pavón ,202247824,21,Tecnologías de la Información ,Masculino,FCC,andy.perezp@alumno.buap.mx,7,"San Salvador el Verde, Puebla ",Python ,Administración de Redes,Intermedio,Soltero
+3,Diego Alberto Nava Rivera ,202234640,20,Licenciatura en Ingeniería en Tecnologías de la Información ,Masculino,FCC,diego.navar@alumno.buap.mx,7,"Huauchinango, Puebla",Python,Minería de datos,Intermedio,Soltero
+4,Nelson Ricardo Sosa Francisco,202254416,20,Ingeniería en Tecnologías de la Información,Masculino,FCC,nelson.sosa@alumno.buap.mx,7,"Puebla, Puebla",Python,Desarrollo Web,Intermedio,Soltero
+5,Aldo Palacios Medel ,202276746,22,Ingeniería en tecnologías de la información ,Masculino,FCC,aldo.palaciosm@alumno.buap.mx,7,Puebla ,C++,Desarrollo de videojuegos ,Básico,Soltero
+6,Miguel Angel Castillo Corona,202221447,21,Ingeniería en Tecnologías de la Información,Masculino,FCC,miguel.castilloc@alumno.buap.mx,7,Puebla,PHP,Desarrollo web,Intermedio,Soltero
+7,Iván Pérez Sánchez,202247984,20,Ingeniería en Tecnologías de la Información,Masculino,FCC,ivan.perezsa@alumno.buap.mx,6,"Puebla, Puebla",Python,Ciencia de Datos,Avanzado,Soltero
+8,Nidia Sanchez Tequihuactle ,202473196,20,Administración pública y gestión para el Desarrollo ,Femenino,Administración ,st202473196@alm.buap.mx,3,Córdoba ,Ninguno ,Finanzas públicas ,Básico,Unión libre
+9,Jhoel Boset Hernández Hernández,202240624,26,Ingeniería en Tecnologías de la Información,Masculino,Facultad de Ciencias de la Computacion,jhoel.hernandezhe@alumno.buap.mx,6,"Zongozotla, Puebla",Python,Ciberseguridad,Intermedio,Soltero
+10,Ingrid Arleth Rosas Díaz ,202457501,18,Lic. en Economía ,Femenino,Economía ,rd202457501@alm.buap.mx,3,"Córdoba, Veracruz ","Python, Javascript, ",Python ,Intermedio,Soltero
+11,Alan de Jesús Valerdi Pérez ,202269430,20,Ingeniería en Tecnologías de la información,Masculino,Ciencias de la computación ,alan.valerdip@alumno.buap.mx,7,Puebla ,Typescript ,Backend,Avanzado,Soltero
+12,Sonia Ramirez Sanchez ,202154004,27,ICC,Femenino,FCC,sonia.ramirezs@alumno.buap.mx,8,Puebla,Python ,Back ed ,Avanzado,Soltero
+13,Heidy santiago Ortiz ,202253771,21,Ingeniería en Tecnologías de la Información ,Femenino,Ciencias de la Computación ,Heidy.santiago@alumno.buap.mx,7,"Tlaxiaco, Oaxaca ",Python,Diseño web,Básico,Soltero
+14,Jovany Solis Ortiz ,202268439,23,Licenciatura en Ingeniería en Tecnologías de la Información ,Masculino,Facultad de Computación ,jovany.solis@alumno.buap.mx,7,Tlaxcala,JAVA,Backend y cyberseguridad,Intermedio,Soltero
+15,Azalea Belinda Medrano Parra,202437848,18,Administración de empresas,Femenino,Facultad de Administración,mp202437848@alm.buap.mx,3,"Veracruz, Coatzacoalcos",Excel ,En el área de logistica o Recursos humanos,Básico,Soltero
+16,Belinda Muñoz Villanueva ,202449962,20,Relaciones Internacionales ,Femenino,Ciencias sociales y políticas ,mv202449962@alm.buap.mx,2,"Zimapán, Hidalgo ",Español e inglés ,Economía internacional ,Básico,Soltero
+17,Beatriz Cárdenas Rodríguez ,202143726,22,Derecho,Femenino,Facultad de derecho ,beatriz.cardenasr@alumno.buap.mx,8,Puebla ,Ninguno ,Derecho penal ,Básico,Soltero
+18,Angel Jesús Ramírez Márquez ,202454039,18,Economía,Masculino,Facultad de Economía,rm202454039@alm.buap.mx,2,"Acayucan, Veracruz",Ninguno,Python y JavaScript,Intermedio,Soltero
+19,Kristian Enrique Moreno Cruz ,202449575,18,Economia ,Masculino,Economia,mc202449575@alm.buap.mx,3,Huauchinango Puebla,Java,No sé aun,Avanzado,Soltero
+20,Esmeralda Urbina Cinto ,202269252,21,Licenciatura en ingeniería en tecnologías de la información ,Femenino,Facultad de Ciencias de la Computación ,esmeralda.urbina@alumno.buap.mx ,7,"Puebla, Puebla ",C++ y python ,Inteligencia Artificial ,Intermedio,Soltero
+21,Jonathan Tiro Cuanenemi ,202268865,20,Ingeniería en Ciencias de la Computación ,Masculino,Facultad de Ciencias de la Computación ,jonathan.tiroc@alumno.buap.mx,7,"Puebla, Puebla",C++,Ciberseguridad o IA. ,Intermedio,Soltero
+22,Monserrath Anais Melchor Martinez ,202447987,19,Administración Pública y Gestión para el Desarrollo ,Femenino,Administración ,mm202447987@alm.buap.mx,3,Puebla ,Ningúno,Docente ,Básico,Soltero
+23,Emilio Giles Vélez ,202146154,22,TICS,Masculino,Computación ,emiliogiles0@gmail.com,7,Acatzingo,C++,Herramientas web,Intermedio,Soltero
+24,Ivan,202119456,22,Ingeniería en tecnologías de la información ,Masculino,Ciencias de la computación ,ivan.floresr@alumno.buap.mx,7,Puebla,Python,Backend,Intermedio,Soltero
+25,Jose Armando Ramos Ramos,202154423,22,Ingenieria en Tecnologias de la Información,Masculino,FCC,jose.ramos@alumno.buap.mx,7,Coatzacoalcoa Veracruz,"Angular, Python, C++",Ciencia de Datos,Básico,Soltero
+26,Jesús Eduardo Aulis ,202117232,21,Ingeniería en tecnologías de la información ,Masculino,Facultad de ciencias de la computación ,Jesús.aulis@alumno.buap.mx,8,"Boca del río, Veracruz ",Python y Java ,Base de datos ,Intermedio,Soltero
+27,Hristo Guzmán,201919840,26,ING. Ciencias de la computación,Masculino,FCC,hristo.corne@alumno.buap.mx,10,Puebla,Java,Ciberseguridad o Scrum master ,Intermedio,Casado
+28,Alexander Cruz ,202214498,20,ICC,Masculino,FCC,Ney.cruz@alumno.buap.mx ,5,Puebla,.net,Backend,Intermedio,Soltero
+29,Jaqueline Flores,202260643,20,Ingeniería en ciencias de la computación ,Femenino,FCC,Jaqueline.floresa@alumno.buap.mx,5,"Huaquechula, Puebla ",Java ,Ciber seguridad,Intermedio,Soltero
+30,Rutsaanay Hernández Pérez ,202387373,20,Ingeniería en Ciencias De la Computación ,Femenino,ICC,hp202387373@alm.buap.com,5,Xicohtzinco -Tlaxcala,C++,Plataformas ,Básico,Soltero
+31,Erendira Giovana González Martínez ,202261438,21,Licenciatura en ciencias de la computación ,Femenino,Facultad de ciencias de la computación ,Erendira.gonzalez@alumno.buap.mx,7,Morelos,"C++,java",Base de datos o graficación ,Básico,Soltero
+32,Jesed Rubí Sánchez Bonilla ,202366521,20,Químico Farmacobiólogo,Femenino,Ciencias Químicas ,sb202366521@alm.buap.mx,5,"Puebla, Puebla",Ninguno,Microbiologia ,Básico,Soltero
+33,Jose Manuel Farfan Nuñez,202361560,20,QFB,Masculino,Ciencias químicas ,fn202361560@alm.buap.mx,4,"Acayucan, Veracruz",Ninguno ,Fármacos ,Avanzado,Soltero
+34,Abril Romero Soria ,201820242,23,Ingeniería en alimentos ,Femenino,Ingeniería Química ,abril.rs@alumno.buap.mx,10,Puebla,Ninguno,Industria,Básico,Soltero
+35,Fernando Kolya Méndez Flores,202233640,22,Ingeniería Química,Masculino,Ingeniería Química,fernando.mendezfl@alumno.buap.mx,7,"Puebla, Puebla.",Ninguno.,Petroquímica.,Intermedio,Unión libre
+36,Ezequiel Pérez Ayala ,202247275,20,ING Química ,Masculino,Fiq,Ezequiel.pereza@alumno.buap.mx,7,"Puebla, Pue ",C++,Metalurgia ,Sin conocimiento,Soltero
+37,Jael Roque Pacheco ,202157764,22,Ing.Alimentos,Femenino,Facultad de ingeniería química ,Jael.roquep@alumno.buap.mx,9,Puebla,Ninguno ,Ing,Básico,Soltero
+38,Edgar González López ,201923239,24,Ing. Ambientale,Masculino,Ing. Quimica,edgarbuap17@gmail.com,13,Puebla,Ninguno,Tratamiento de agua,Intermedio,Soltero
+39,Luis Ángel Nolasco González ,202139783,21,Ingeniería Ambiental ,Masculino,Ingeniería Química ,Luis.nolascog@alumno.buap.mx,9,Puebla,Ninguno ,Seguridad e Higiene ,Avanzado,Soltero
+40,MARCOS CASTRO LUNA,202143960,23,Ingeniería ambiental,Masculino,FIQ,marcos.catro@alumno.buap,8,"Córdoba, Veracruz",Piton,Seguridad e higiene,Intermedio,Soltero
+41,Josué Castro Castro ,202315894,16,Bachillerato 5 de meyo,Masculino,Bachillerato 5 de mayo ,cc202315894@alm.buap.mx,5,"Puebla, Puebla ",Ninguno ,Arquitectura ,Intermedio,Unión libre
+42,Shaila Reyes Domínguez ,202306722,17,Bachillerato 5 de mayo,Femenino,Bachillerato 5 de mayo,rd202306722@alm.buap.mx,5,"Puebla, Pue",Ninguno,Médico,Básico,Soltero
+43,Diana Jaqueline Valera Pérez ,202164014,22,Ingeniería Ambiental ,Femenino,Ingeniería química ,diana.valerap@alumno.buap mx,8,Puebla ,Phyton ,Aguas residuales ,Básico,Soltero
+44,Mayra bello Vazquez ,202029066,27,Ing. Ambiental ,Femenino,Facultad de ingeniería química ,Mayra.bellov@alumno.buap.mx,6,Puebla ,"Pyton, macros, MATLAB ",Me gustaría especializarme en el área de suelo o agua ,Intermedio,Soltero
+45,García Zayas Luis Uriel ,202037763,22,Ingeniería Química ,Masculino,Ingeniería Química ,luis.garciaz@alumno.buap.mx,10,Puebla ,Ninguno ,Procesos industriales,Intermedio,Soltero
+46,Giovanni leal Santos ,202063708,23,Actuación ,Masculino,Cine,giovanni.leal.@alumo.buap.mx,9,Puebla ,Ninguno ,No se ,Intermedio,Divorciado
+47,Giovanni leal flores,202042951,23,Actuaría ,Masculino,Ciencia físico matematicas,Lealflresgiovanni,8,Puebla,Phyton,Seguros y fianzas,Intermedio,Soltero
+48,Gael García Rivera ,202222961,21,Ingiemeria química ,Masculino,Fiq,gael.garciari@alumno.buap.mx,6,Morelos ,Payton java ,Laboratorio ,Avanzado,Soltero
+49,Litzy Manzo Hernández ,202045005,23,Comercio Internacional ,Femenino,Administración ,litzy.manzoh@alumno.buap.mx,9,Puebla,Ninguno,Logística ,Intermedio,Soltero
+50,Diego Ortiz de la Peña ,202246291,22,Criminología ,Masculino,Derecho ,diego.ortizdelap@alumno.buap.mx,7,"Puebla, puebla ",Ninguno ,Agente de investigación ,Intermedio,Soltero
+51,Lopez Montiel José Ángel ,202228339,21,Criminología ,Masculino,Derecho ,jose.lopezmon@alumno.buap.mx,7,Puebla,Ninguno ,Control social ,Intermedio,Soltero
+52,Mabel Sánchez Hernández ,202253032,20,Criminología ,Femenino,Derecho ,mabel.sanchezh@alumno.buap.mx,7,Tlaxcala ,Ninguno ,Peritaje ,Básico,Soltero
