@@ -35,6 +35,15 @@ lista_usuarios = [Usuario(**usuario_dict)for usuario_dict in lista_dicts] # Conv
 async def get_usuarios():
     return lista_usuarios
 
+# Obtener un usuario por ID
+@app.get("/usuarios/id", tags=["Get Usuarios"])
+async def get_usuarios_by_id(id: int):
+    users = filter(lambda Usuario: Usuario.id == id, lista_usuarios)
+    try:
+        return list(users)[0]
+    except:
+        return {"error": "No se encontraron usuarios con ese semestre y carrera"}
+
 ################### POST ###################
 # Crear un nuevo usuario
 @app.post("/usuarios", tags=["Post Usuarios"])
